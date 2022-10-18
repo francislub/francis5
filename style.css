@@ -1,0 +1,28 @@
+ul.w{
+    text-align: center;
+    display: block;
+    font-size:20px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    list-style-type: nono;
+    padding: o;
+    width: 500px;
+
+}
+a:hover{
+    background-color: blue;
+    color: aqua;
+}
+.active{
+    background-color: red;
+    display: block;
+    color: honeydew;
+}
+form.s{
+    display: block;
+    background-color: aqua;
+}
+summary{
+    background-color: aqua;
+}
